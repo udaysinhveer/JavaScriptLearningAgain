@@ -31,7 +31,7 @@ var stringHandsOn = function(givenString){
     console.log(`8. print string form index 22 Using "Substring" = ${removeExtraSpaces.substring(22)}`);
     console.log(`9. print string form index 22 Using "slice" = ${removeExtraSpaces.slice(22)}`);
     console.log(`10. string ends with word "up" : ${removeExtraSpaces.endsWith("up")}`);
-    console.log(`10. string starts with word "Hey" : ${removeExtraSpaces.startsWith("Hey")}`);
+    console.log(`11. string starts with word "Hey" : ${removeExtraSpaces.startsWith("Hey")}`);
 
 
 }
