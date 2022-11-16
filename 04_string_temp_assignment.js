@@ -35,14 +35,4 @@ var stringHandsOn = function(givenString){
 
 
 }
-stringHandsOn("       Hey you are doing good, keep it up         ");
-
-
-
-
-
-
-
-
-
-
+stringHandsOn(`Hey you "are" doing good, keep it up`);
