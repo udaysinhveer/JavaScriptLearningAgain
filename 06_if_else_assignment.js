@@ -62,23 +62,3 @@ function stringStarts(string2){
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
