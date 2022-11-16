@@ -57,10 +57,3 @@ var functionValueAddition =  add_three_numbers(10.23, 600, 40)
 var stringAddition = add_three_numbers("Hello ", "Good ", "Morning")
 console.log(`Addition of three numbers is : ${functionValueAddition}`);
 console.log(stringAddition);
-
-
-
-
-
-
-
