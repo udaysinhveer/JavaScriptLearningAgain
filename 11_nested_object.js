@@ -17,3 +17,4 @@ let uday = {
 
 console.table(uday);
 console.table(uday.address); // we can print only nested object also 
+console.log(uday.address.street); // here we access property from nested object

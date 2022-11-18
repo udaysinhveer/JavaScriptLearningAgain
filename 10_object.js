@@ -26,6 +26,12 @@ console.log("============ Delete property of object ==================");
 delete uday.age;  // using delete keyword we delete age of object 
 console.table(uday);
 
+console.log("============ total Entries, keys and values in object ==================");
+
+console.log(Object.entries(uday)); // here we check how many entries/properties in this array
+console.log(Object.keys(uday)); // count total number of keys in this object
+console.log(Object.values(uday)); // count total numbers of values in this object 
+
 console.log("========================= Empty Object ================================");
 
 let collegeAbc = {
