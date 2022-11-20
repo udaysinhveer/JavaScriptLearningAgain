@@ -40,5 +40,3 @@ let collegeAbc = {
 
 }
 console.log(collegeAbc);
-
-
