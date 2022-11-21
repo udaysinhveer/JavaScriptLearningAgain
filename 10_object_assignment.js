@@ -38,4 +38,3 @@ console.table(teacher.Degrees.certificates);
 //Add new certificate in nested certificate object 
  teacher.Degrees.certificates.mscit = "World Computer Karmala";
    console.table(teacher.Degrees.certificates);
-
