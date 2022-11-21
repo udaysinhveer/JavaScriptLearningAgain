@@ -1,4 +1,5 @@
 console.log("========================= object (uday) ================================");
+// object is non primitive/reference data type which can hold multiple values in the form of keys and values
 
 let uday = {                             // uday is object 
 
@@ -32,7 +33,13 @@ console.log(Object.entries(uday)); // here we check how many entries/properties 
 console.log(Object.keys(uday)); // count total number of keys in this object
 console.log(Object.values(uday)); // count total numbers of values in this object 
 
-console.log("========================= Empty Object ================================");
+console.log("===== in operator, to check is this property available in this object or not ======");
+
+let isAvailable = "fullName" in uday;
+console.log(`is fullName available in object uday : ${isAvailable}`);   // if yes it will return "true"
+let isAvailabl = "surname" in uday;
+console.log(`is surname available in object uday : ${isAvailabl}`); 
+console.log("=============== Empty Object ==============");
 
 let collegeAbc = {
 
