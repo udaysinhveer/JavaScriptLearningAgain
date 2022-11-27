@@ -10,8 +10,8 @@ class Person { // class name first letter should be in capital later
 
         console.log(`Person Details ${this.fullName} ${this.age } ${this.gender} ${this.city }`);
     }
-
 }
+
 // object creation using class property, here uday and nikhil this are two objects 
 let uday = new Person("Udaysinh Veer", 23, "Male", "Pune") // here we pass the values for class constructor 
 let nikhil = new Person("Nikhil Sabale", 26, "Male", "Mumbai")
