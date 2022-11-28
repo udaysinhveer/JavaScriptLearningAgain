@@ -6,10 +6,10 @@ class Person {
         this.gender = gender
         this.city = city
     }
-    details(){
+    // details(){
 
-        console.log(`Person Details ${this.fullName} ${this.age } ${this.gender} ${this.city }`);
-    }
+    //     console.log(`Person Details ${this.fullName} ${this.age } ${this.gender} ${this.city }`);
+    // }
 }
 let personAnil = new Person ("Anil mohite", "31", "Male", "Pune")
 let personAnita = new Person ("Anita Golate", "22", "Female", "Mumbai")
