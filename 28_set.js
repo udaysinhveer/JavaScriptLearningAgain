@@ -43,7 +43,3 @@ for (let index = 0; index < arrayNumbers.length; index++) {
     setArrayNumbers.add(element); // it will not add duplicates value 
 }
     console.log(setArrayNumbers); // it will only original values
-
-
-
-
