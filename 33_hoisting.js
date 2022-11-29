@@ -6,7 +6,7 @@ console.log(myName);
  var myName = "Mohit Sharma";
  let rollNo = 1234;
  const PIN_CODE = 431202;
- 
+  
  show(); // we can call normal function before function declaration
  
  function show() {
