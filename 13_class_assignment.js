@@ -6,7 +6,7 @@ constructor(companyName, model,price,color){
     this.price = price;
     this.color = color;
 
-}
+} 
 
 }
 let bike = new Vehicle("KTM", 212, 75000, "Red");
