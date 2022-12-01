@@ -42,15 +42,3 @@ return girlMarriageResult;
 console.log(girlsMarriageCheck(17, "Female", "Nikita"));
 console.log(girlsMarriageCheck(18, "Female", "Pooja"));
 console.log(girlsMarriageCheck(22, "Female", "Ankita"));
-
-
-
-
-
-
-
-
-
-
-
-
